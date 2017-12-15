@@ -1,3 +1,3 @@
--Title: Bash, Make, Git and Github
--Update: Thu Dec 14 21:14:54 PST 2017
--Number of line(s) in guessinggame.sh: 30
+- Title: Bash, Make, Git and Github
+- Update: Thu Dec 14 21:17:56 PST 2017
+- Number of line(s) in guessinggame.sh: 30
